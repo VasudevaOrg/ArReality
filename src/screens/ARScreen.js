@@ -17,8 +17,6 @@ import {
   ViroDirectionalLight
 } from '@reactvision/react-viro';
 
-ento idhi
-
 // This is the actual AR Scene that runs inside the ViroARSceneNavigator
 const MonumentARScene = (props) => {
   const { monument } = props.sceneNavigator.viroAppProps;
